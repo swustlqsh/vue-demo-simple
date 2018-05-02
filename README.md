@@ -14,10 +14,10 @@
 ## 项目运行（nodejs 6.0+）
 ``` bash
 # 克隆到本地
-git clone https://github.com/bailicangdu/vue2-happyfri.git
+git clone https://github.com/swustlqsh/vue-demo-simple.git
 
 # 进入文件夹
-cd vue2-happyfri
+cd vue-demo-simple
 
 # 安装依赖
 npm install
