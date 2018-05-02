@@ -20,13 +20,13 @@ git clone https://github.com/swustlqsh/vue-demo-simple.git
 cd vue-demo-simple
 
 # 安装依赖
-npm install
+yarn 或者 npm install
 
 # 开启本地服务器localhost:8088
-npm run dev
+yarn dev 或者 npm run dev
 
 # 发布环境
-npm run build
+yarn build 或者 npm run build
 ```
 
 ## 路由配置
